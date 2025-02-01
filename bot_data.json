@@ -1,0 +1,59 @@
+{
+  "moderators": [
+    6419892672,
+    7442343779,
+    5826682776,
+    580187559
+  ],
+  "saved_tables": {
+    "Kageo vs izumi": "Kageo 2\nIzumi 0",
+    "Essai 2": "Kageo : 2\nIzumi : 4 ✅"
+  },
+  "challengers": {
+    "6419892672": {
+      "name": "DN",
+      "duels_count": 17,
+      "join_date": "2025-01-21"
+    },
+    "5826682776": {
+      "name": "GODLIGTH ALL",
+      "duels_count": 10,
+      "join_date": "2025-01-21"
+    },
+    "7442343779": {
+      "name": "Emmanuel",
+      "duels_count": 1,
+      "join_date": "2025-01-21"
+    },
+    "6402146998": {
+      "name": "King",
+      "duels_count": 1,
+      "join_date": "2025-01-22"
+    },
+    "7214929497": {
+      "name": "Anthony",
+      "duels_count": 1,
+      "join_date": "2025-01-22"
+    },
+    "6450356361": {
+      "name": "Uranus Prime D-jin",
+      "duels_count": 2,
+      "join_date": "2025-01-22"
+    },
+    "6623427859": {
+      "name": "King",
+      "duels_count": 1,
+      "join_date": "2025-01-22"
+    },
+    "6157225246": {
+      "name": "Fridolin",
+      "duels_count": 2,
+      "join_date": "2025-01-24"
+    },
+    "580187559": {
+      "name": "Fuyu",
+      "duels_count": 1,
+      "join_date": "2025-01-30"
+    }
+  }
+}
